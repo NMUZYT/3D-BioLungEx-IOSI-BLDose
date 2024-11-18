@@ -20,4 +20,4 @@ The project also developed the IOSI-BLDose, a novel algorithm based on iterative
 
 
 
-<iframe width="560" height="315" src="https://github.com/NMUZYT/3D-BioLungEx-IOSI-BLDose/blob/main/demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/NMUZYT/3D-BioLungEx-IOSI-BLDose/blob/main/demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4
