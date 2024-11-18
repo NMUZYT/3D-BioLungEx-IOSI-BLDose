@@ -7,7 +7,7 @@ This project focuses on the development of a novel hardware system and software 
 
 A three-dimensional biological ex vivo motion simulation device (3D-BioLungEx) was designed to simulate human lung respiration. The 3D-BioLungEx comprises a monitoring module, a carrying module and an analog module, both of which have publicly available source codes.
 
-![[fig.3.jpg]]![[fig.5.jpg]]
+![3](fig.3.jpg)![4](fig.4.png)![5](fig.5.jpg)
 
 ## Software Algorithm:
 
