@@ -1,4 +1,4 @@
-![1](fig.1.png)
+
 # Project Summary
 
 
