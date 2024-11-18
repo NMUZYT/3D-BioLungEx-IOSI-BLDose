@@ -1,4 +1,4 @@
-![[fig.1.png]]
+![1](fig.1.png)
 # Project Summary
 
 This project focuses on the development of a novel hardware system and software algorithm for radiotherapy, with the goal of advancing radiotherapy techniques and exploring new technological possibilities.
