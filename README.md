@@ -1,4 +1,5 @@
-
+Video:
+[![](https://nmuzyt.github.io/picture/player.png)](https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4)
 # Project Summary
 
 
@@ -19,7 +20,6 @@ A three-dimensional biological ex vivo motion simulation device (3D-BioLungEx) w
 The project also developed the IOSI-BLDose, a novel algorithm based on iterative optimization and scatter inversion, to calculate the three-dimensional dose distribution within biological tissue during radiotherapy. The source code for this algorithm is also publicly available.
 ![5](fig.5.jpg)
 
-Video:
-[![](https://nmuzyt.github.io/picture/player.png)](https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4)
+
 
 
