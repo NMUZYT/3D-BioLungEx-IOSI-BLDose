@@ -19,5 +19,5 @@ A three-dimensional biological ex vivo motion simulation device (3D-BioLungEx) w
 The project also developed the IOSI-BLDose, a novel algorithm based on iterative optimization and scatter inversion, to calculate the three-dimensional dose distribution within biological tissue during radiotherapy. The source code for this algorithm is also publicly available.
 
 
-
+Video:
 https://github.com/NMUZYT/3D-BioLungEx-IOSI-BLDose/blob/main/demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4
