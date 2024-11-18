@@ -1,11 +1,11 @@
 ![1](fig.1.png)
 # Project Summary
 
-![3](fig.3.jpg)
+![3](fig.2.jpg)
 
 This project focuses on the development of a novel hardware system and software algorithm for radiotherapy, with the goal of advancing radiotherapy techniques and exploring new technological possibilities.
 
-![2](fig.2.jpg)
+![2](fig.3.jpg)
 
 ## Hardware System:
 
