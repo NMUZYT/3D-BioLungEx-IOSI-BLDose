@@ -1,0 +1,25 @@
+# 示例代码框架
+class EPIDDoseVerification:
+    def __init__(self):
+        self.log_data = None
+        self.image_data = None
+        
+    def image_decomposition(self):
+        # 图像分解算法实现
+        pass
+        
+    def scatter_modeling(self):
+        # 散射模型计算
+        pass
+        
+    def attenuation_correction(self):
+        # 衰减校正
+        pass
+        
+    def dose_reconstruction(self):
+        # 剂量重建
+        pass
+        
+    def real_time_verification(self):
+        # 实时验证
+        pass
