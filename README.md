@@ -26,3 +26,7 @@ The project also developed the IOSI-BLDose, a novel algorithm based on iterative
 <img src="https://nmuzyt.github.io/picture/fig.6.jpg" width="800"/>
 
 **Fig.4** *The dose distribution in the porcine lung was obtained by IOSI-BLDose inversion*
+
+<a href="https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4">
+    <img src="https://nmuzyt.github.io/picture/fm.jpg" width="800" alt="3D-BioLungEx and IOSI-BLDose Demonstration">
+</a>
