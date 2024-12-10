@@ -26,7 +26,7 @@ A three-dimensional biological ex vivo motion simulation device (3D-BioLungEx) w
 ### Software Algorithm:
 The project also developed the IOSI-BLDose, a novel algorithm based on iterative optimization and scatter inversion, to calculate the three-dimensional dose distribution within biological tissue during radiotherapy. The source code for this algorithm is also publicly available.
 
-<img src="https://nmuzyt.github.io/picture/fig.3.jpg" width="800"/>
+<img src="https://nmuzyt.github.io/picture/fig.6.jpg" width="800"/>
 
 **Fig.4** *The dose distribution in the porcine lung was obtained by IOSI-BLDose inversion*
 
