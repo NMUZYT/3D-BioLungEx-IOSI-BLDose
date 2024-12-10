@@ -1,7 +1,10 @@
 # 3D-BioLungEx-IOSI-BLDose
 
 ## Video:
-[![](https://nmuzyt.github.io/picture/fm.jpg)](https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4)
+<a href="https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4">
+    <img src="https://nmuzyt.github.io/picture/fm.jpg" width="800" alt="3D-BioLungEx and IOSI-BLDose Demonstration">
+</a>
+
 ## Project Summary
 This project focuses on the development of a novel hardware system and software algorithm for radiotherapy, with the goal of advancing radiotherapy techniques and exploring new technological possibilities.
 
@@ -27,6 +30,3 @@ The project also developed the IOSI-BLDose, a novel algorithm based on iterative
 
 **Fig.4** *The dose distribution in the porcine lung was obtained by IOSI-BLDose inversion*
 
-<a href="https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4">
-    <img src="https://nmuzyt.github.io/picture/fm.jpg" width="800" alt="3D-BioLungEx and IOSI-BLDose Demonstration">
-</a>
