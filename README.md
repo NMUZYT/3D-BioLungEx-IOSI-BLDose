@@ -12,8 +12,10 @@ This project focuses on the development of a novel hardware system and software 
 A three-dimensional biological ex vivo motion simulation device (3D-BioLungEx) was designed to simulate human lung respiration. The 3D-BioLungEx comprises a monitoring module, a carrying module and an analog module, both of which have publicly available source codes.
 ![](https://nmuzyt.github.io/picture/fig.2.jpg)
 Fig.1 The monitoring module employs laser rangefinding technology for non-contact measurement of the patient’s respiratory curve
+
 ![](https://nmuzyt.github.io/picture/fig.4.jpg)
 Fig.2 The carrying module is designed to create a customized thoracic cavity for the patient using 3D-printing technology
+
 ![](https://nmuzyt.github.io/picture/fig.3.jpg)
 Fig.3 The analog module replicates the patient’s respiratory motions with automatic motor technology
 
