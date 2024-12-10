@@ -23,6 +23,7 @@ Fig.3 The analog module replicates the patient’s respiratory motions with auto
 
 The project also developed the IOSI-BLDose, a novel algorithm based on iterative optimization and scatter inversion, to calculate the three-dimensional dose distribution within biological tissue during radiotherapy. The source code for this algorithm is also publicly available.
 ![](https://nmuzyt.github.io/picture/fig.6.jpg)
+
 Fig.4 The dose distribution in the porcine lung was obtained by IOSI-BLDose inversion
 
 
