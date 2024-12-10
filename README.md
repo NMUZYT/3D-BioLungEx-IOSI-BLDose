@@ -1,5 +1,5 @@
 ## Video:
-[![](https://nmuzyt.github.io/picture/fm.jpg width="800")](https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4)
+[![](https://nmuzyt.github.io/picture/fm.jpg)](https://nmuzyt.github.io/movie/Low%20quality%20version-demonstration%20of%203D-BioLungEx%20and%20IOSI-BLDose.mp4.mp4)
 ## Project Summary
 This project focuses on the development of a novel hardware system and software algorithm for radiotherapy, with the goal of advancing radiotherapy techniques and exploring new technological possibilities.
 
